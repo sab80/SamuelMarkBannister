@@ -1,0 +1,10 @@
+CONTROLS//
+
+"A" -> LEFT
+"D" -> RIGHT
+"SPACE" -> JUMP
+"F" -> Attack
+"P" -> Pause menu
+"M" -> MiniMap
+
+To access intractable objects, such as the shop, or travel points, attack them to open their respective menu's.

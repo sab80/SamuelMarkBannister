@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{AF84BF44-527C-DF8C-5939-B48FC507B75A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/HUD/TextScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyScripts/DemonScript.cs" Line="78" Column="13" />
+      <File FileName="Assets/Scripts/EnemyScripts/BossScript.cs" Line="45" Column="6" />
+      <File FileName="Assets/Scripts/TreeFastTravel/TreeScript.cs" Line="41" Column="91" />
+      <File FileName="Assets/Scripts/PlayerScripts/PlayerController.cs" Line="99" Column="6" />
+      <File FileName="Assets/Scripts/UI/HUD/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/HUD/TextScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MajorProjectMetroidVania" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="EnemyScripts" expanded="True">
+                  <Node name="Slime" expanded="True" />
+                </Node>
+                <Node name="GM" expanded="True" />
+                <Node name="itemScript" expanded="True" />
+                <Node name="MovingPlatform" expanded="True" />
+                <Node name="PickupAbleItems" expanded="True">
+                  <Node name="Coins" expanded="True" />
+                </Node>
+                <Node name="PlayerScripts" expanded="True" />
+                <Node name="Tilemap" expanded="True" />
+                <Node name="TreeFastTravel" expanded="True" />
+                <Node name="UI" expanded="True">
+                  <Node name="FastTravelUI" expanded="True" />
+                  <Node name="HUD" expanded="True">
+                    <Node name="TextScript.cs" selected="True" />
+                  </Node>
+                  <Node name="PauseUI" expanded="True" />
+                  <Node name="Shop" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Sprites" expanded="True">
+                <Node name="Enemies" expanded="True">
+                  <Node name="TuturialEnemy" expanded="True" />
+                </Node>
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MajorProjectMetroidVania" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7dfb66ac-d277-4592-bc81-ad1763d1e037" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
