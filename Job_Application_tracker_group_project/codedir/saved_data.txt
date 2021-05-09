@@ -1,0 +1,11 @@
+Team_Calder
+15 Yellow Brick Road
+(2021, 4, 15)
+England
+Team_calder.Linkedin
+Team_calder@aber.ac.uk
+0792389423
+[<PyQt5.QtWidgets.QListWidgetItem object at 0x0000019382A669D0>, <PyQt5.QtWidgets.QListWidgetItem object at 0x0000019382A66A60>, <PyQt5.QtWidgets.QListWidgetItem object at 0x0000019382A66AF0>, <PyQt5.QtWidgets.QListWidgetItem object at 0x0000019382A66B80>]
+Aberystwyth University
+Using SCRUM agile development
+[1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
